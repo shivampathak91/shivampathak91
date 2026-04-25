@@ -11,9 +11,9 @@
 ---
 
 <p align="center">
-  <a href="www.linkedin.com/in/shivam-p18">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<a href="https://www.linkedin.com/in/shivam-91p">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
   <a href="mailto:pathakshivam9136@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>

@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=InsightX&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/shivampathak91/netflix-clone">
+<a href="https://github.com/shivampathak91/Netflix.Tailwind">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=Netflix.Tailwind&theme=tokyonight" />
 </a>
 

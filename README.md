@@ -64,11 +64,11 @@
 </a>
 
 <a href="https://github.com/shivampathak91/netflix-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=netflix-clone&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=Netflix.Tailwind&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/shivampathak91/recipe-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=recipe-app&theme=tokyonight" />
+<a href="https://github.com/shivampathak91/Travelly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=Travelly&theme=tokyonight" />
 </a>
 
 </p>

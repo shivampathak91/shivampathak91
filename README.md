@@ -1,131 +1,112 @@
-<h1 align="center">Hi 👋, I'm Shivam Pathak</h1>
-
-<h3 align="center">
-💻 Aspiring Data Analyst | 📦 Future Data Engineer | 🚀 Building Real-World Data Projects
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Enthusiast;Future+Data+Engineer;Building+AI+Projects;Turning+Data+into+Insights&center=true&width=500&height=45">
-</p>
-
----
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shivam-91p">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-  <a href="mailto:pathakshivam9136@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
-
----
-
-<h2>🚀 About Me</h2>
+🌟 About Me
 
 🎓 Computer Science Student from India
-📊 Passionate about **Data Analytics, AI & Data Engineering**
-📦 Learning **ETL Pipelines, SQL Optimization & Data Systems**
 
-* 🎯 Building **InSightX – AI Retail Analytics Platform**
-* 📈 Focused on **real-world data-driven solutions**
-* ⚡ Exploring **Machine Learning + Data Pipelines**
-* 🎨 Strong interest in **clean UI + impactful dashboards**
+📊 Passionate about Data Analytics, Machine Learning, and Data Engineering
 
----
+🚀 Building real-world projects that combine AI, Data, and Backend Development
 
-<h2>🛠️ Tech Stack</h2>
+Current Focus
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Plotly-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</p>
+* 📈 Data Analytics & Business Intelligence
+* 🗄️ SQL & Database Optimization
+* ⚙️ FastAPI Backend Development
+* 🤖 Machine Learning & Predictive Analytics
+* 🧮 Mathematics for Machine Learning
+* 📚 Exploring Python Libraries for Data Science & AI
+* 📊 Interactive Dashboards & Data Visualization
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+🛠 Tech Stack
 
-<p align="center">
+Programming Languages
 
-<a href="https://github.com/shivampathak91/InsightX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=InsightX&theme=tokyonight" />
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-<a href="https://github.com/shivampathak91/Netflix.Tailwind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=Netflix.Tailwind&theme=tokyonight" />
-</a>
+Data Analytics & Machine Learning
 
-<a href="https://github.com/shivampathak91/Travelly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivampathak91&repo=Travelly&theme=tokyonight" />
-</a>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-</p>
+Backend & APIs
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-<h2>📊 Flagship Project – InSightX</h2>
+Data Visualization & Apps
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivampathak91/InsightX/main/insightx/sales.png" width="800"/>
-</p>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
-<p align="center">
-AI-powered retail analytics dashboard with forecasting, chatbot, and automated insights
-</p>
+Database
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-<h2>📸 Application Flow</h2>
+Version Control
 
-<p align="center">
-  🔐 Login → 📂 Upload → 📊 Dashboard → 🔮 Forecast → 🤖 AI Insights → 💬 Chatbot
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
+Frontend
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivampathak91&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivampathak91&theme=tokyonight" height="150"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ---
 
-<h2>🐍 Contribution Snake</h2>
+🎯 Currently Learning
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivampathak91/shivampathak91/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
-<h2>🎯 Career Goal</h2>
-
-<p align="center">
-➡️ Data Analyst → Data Engineer → Building Scalable Data Systems
-</p>
+* 🧮 Mathematics for Machine Learning
+* 📊 Statistics & Probability
+* 🤖 Machine Learning Algorithms
+* 🐍 Advanced Python Libraries
+* ⚙️ FastAPI & REST APIs
+* 📦 Data Engineering Fundamentals
+* 🔄 ETL Pipelines & Data Processing
+* ☁️ Streamlit App Development
+* 🗄️ Advanced SQL
 
 ---
 
-<h2>💡 Philosophy</h2>
+🚀 Featured Projects
 
-<p align="center">
-"Turning raw data into meaningful insights and impactful solutions"
-</p>
+📊 InSightX – AI Retail Analytics Platform
+
+* Sales Analytics Dashboard
+* AI-Powered Business Insights
+* Demand Forecasting
+* Interactive Visualizations
+* Chatbot for Data Queries
+
+💰 Insurance Cost Prediction API
+
+* Machine Learning Model Integration
+* FastAPI REST API
+* Real-Time Prediction Endpoint
+* JSON-Based API Responses
+
+🩺 Patient Management API
+
+* CRUD Operations
+* Filtering & Sorting
+* Query Parameters
+* FastAPI + Pydantic
+
+🎬 Netflix Clone
+
+* Responsive UI
+* Tailwind CSS
+* Modern Frontend Design
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star!</p>
+
+ 💡 Philosophy
+
+> "Turning raw data into meaningful insights and impactful solutions."

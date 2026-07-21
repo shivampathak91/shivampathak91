@@ -1,18 +1,24 @@
 <div align="center">
 
-# Hi 👋, I'm Shivam Pathak
+# 👋 Hi, I'm Shivam Pathak
 
-### AI Engineer • Backend Developer • AI Security Builder
+### 🛡️ AI Engineer • 🤖 AI Agent Builder • ⚡ Backend Developer
 
-Building production-ready AI systems, autonomous agents, and secure backend platforms using Python & FastAPI.
+Building secure AI systems, autonomous agents, and scalable backend platforms using Python & FastAPI.
 
 <p>
-<a href="https://shivampathak.vercel.app/">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/shivam-pathak91">LinkedIn</a> •
-<a href="https://github.com/shivampathak91">GitHub</a>
+  <a href="https://shivampathak.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-pathak91">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shivampathak91">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=shivampathak91&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=shivampathak91&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -20,12 +26,21 @@ Building production-ready AI systems, autonomous agents, and secure backend plat
 
 # 🚀 About Me
 
-- 🛡️ Building **Kavach AI** — Zero-Trust Security Platform for Autonomous AI Agents
-- 🌍 Creator of **ARGUS** — Multi-Agent Risk Intelligence Platform
-- 📊 Developer of **InsightX** — AI-Powered Business Intelligence Platform
-- ⚡ Passionate about AI Security, AI Agents, Backend Engineering & Machine Learning
-- 🌱 Currently exploring **LLMs, MCP, AI Safety, Agentic AI and Cloud Deployment**
-- 💬 Ask me about **Python, FastAPI, AI Agents, Machine Learning, SQL, Data Analytics**
+I'm a Computer Science student passionate about building **production-ready AI applications** that combine **AI Security**, **Autonomous Agents**, **Backend Engineering**, and **Machine Learning**.
+
+### 🔭 Currently Building
+
+- 🛡️ **Kavach AI** — Zero-Trust Security Platform for Autonomous AI Agents
+- 🌍 **ARGUS** — AI-Powered Multi-Agent Risk Intelligence Platform
+- 📊 **InsightX** — AI Business Intelligence & Analytics Platform
+
+### 🌱 Currently Exploring
+
+- Agentic AI
+- Model Context Protocol (MCP)
+- AI Security & AI Safety
+- LLM Engineering
+- Cloud Deployment
 
 ---
 
@@ -33,124 +48,130 @@ Building production-ready AI systems, autonomous agents, and secure backend plat
 
 ## 🛡️ Kavach AI
 
-> Enterprise-grade Zero-Trust Runtime Security Platform protecting autonomous AI agents from prompt injection, jailbreaks, unsafe tool execution, and malicious actions.
+> Enterprise-grade security platform protecting AI agents from prompt injection, jailbreaks, malicious tool execution, and unsafe actions.
 
-**Highlights**
+**Key Features**
 
 - Prompt Injection Detection
-- Intent Analysis Engine
-- Dynamic Trust Scoring
+- Intent Analysis
+- Dynamic Trust Engine
 - Runtime Policy Enforcement
 - Human Approval Workflow
-- AI Attack Simulation Lab
-- Real-Time Security Dashboard
+- AI Attack Simulation
+- Security Dashboard
 
 ---
 
 ## 🌍 ARGUS
 
-> AI-powered Early Warning & Risk Intelligence Platform built using autonomous AI agents for disaster monitoring and critical infrastructure intelligence.
+> Multi-Agent AI platform for early warning, disaster intelligence, and critical infrastructure monitoring.
 
 **Highlights**
 
-- Multi-Agent Architecture
-- Intelligent Threat Detection
-- Risk Analysis
-- Automated Incident Investigation
-- Interactive Mission Control Center
+- Autonomous AI Agents
+- Threat Detection
+- Incident Analysis
 - Geospatial Intelligence
+- Mission Control Dashboard
+- Decision Support
 
 ---
 
 ## 📊 InsightX
 
-> AI-powered Business Intelligence platform transforming raw datasets into interactive dashboards, predictive analytics and actionable insights.
+> AI-powered analytics platform transforming raw data into business insights through dashboards, forecasting, and AI-assisted analytics.
 
 **Highlights**
 
-- Interactive Analytics
+- Interactive Dashboards
+- Predictive Analytics
 - AI Chat Assistant
 - Forecasting
-- Customer Segmentation
 - Automated Reports
-- Secure Authentication
+- Authentication
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
-### Backend & Databases
+### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
-### AI / ML
+### AI & ML
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)
 
-### Deployment & Tools
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render)
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Activity
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivampathak91&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampathak91&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shivampathak91&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivampathak91&theme=tokyo-night&hide_border=true"/>
 
-# 📊 Contribution Graph
+<br><br>
 
-<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivampathak91&theme=tokyonight"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivampathak91&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 🏅 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shivampathak91&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
-</p>
+</div>
+
+---
+
+# 📌 Pinned Repositories
+
+⭐ Kavach AI
+
+⭐ ARGUS
+
+⭐ InsightX
+
+⭐ Portfolio
+
+⭐ FastAPI Backend
+
+⭐ Machine Learning Project
 
 ---
 
 <div align="center">
 
-### 💡 "Building secure AI systems that people can trust."
+### 💡 Building secure AI systems that people can trust.
 
-⭐ If you like my work, consider starring my repositories!
+⭐ Thanks for visiting my profile!
 
 </div>

@@ -29,7 +29,7 @@ Building secure AI systems, autonomous AI agents, and scalable backend platforms
 
 # 🚀 Professional Summary
 
-Computer Science student and aspiring AI Engineer passionate about building secure, production-ready AI systems, autonomous AI agents, and scalable backend applications. Experienced in Python, FastAPI, Machine Learning, and Data Analytics, with a growing focus on AI Security, Agentic AI, and LLM-powered applications. I enjoy solving complex real-world problems by combining intelligent automation, robust backend engineering, and modern AI technologies.
+Computer Science student and aspiring AI Engineer passionate about building secure, production-ready AI systems, autonomous AI agents, and scalable backend applications. Experienced in Python, FastAPI, and Data Analytics, with a growing focus on AI Security, Agentic AI, and LLM-powered applications. I enjoy solving complex real-world problems by combining intelligent automation, robust backend engineering, and modern AI technologies.
 
 ---
 
@@ -38,29 +38,32 @@ Computer Science student and aspiring AI Engineer passionate about building secu
 ### 🛡️ Kavach AI
 **Zero-Trust Runtime Security Platform for Autonomous AI Agents**
 
-> Protects AI agents from prompt injection, jailbreaks, malicious tool execution, and unsafe actions.
+> Built for the **OpenAI Codex Hackathon**, Kavach AI protects AI agents from prompt injection, jailbreaks, malicious tool execution, and unsafe actions through real-time security analysis and policy enforcement.
 
-🔗 **Repository:** https://github.com/shivampathak91/Kavach-AI  
-🌐 **Live Demo:** https://kavachlabs.vercel.app
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shivampathak91/Kavach-AI)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://kavachlabs.vercel.app)
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-CQqRKJFpw8)
 
 ---
 
 ### 🌍 ARGUS
 **AI-Powered Multi-Agent Early Warning & Risk Intelligence Platform**
 
-> Autonomous AI platform for disaster monitoring, threat detection, and critical infrastructure intelligence.
+> Developed as the **Capstone Project for the Google × Kaggle AI Agentic Intensive (Vibe Coding Track)**, ARGUS leverages autonomous AI agents to monitor risks, analyze incidents, and deliver actionable intelligence for disaster response and critical infrastructure.
 
-🔗 **Repository:** https://github.com/shivampathak91/argus-risk-intelligence
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shivampathak91/argus-risk-intelligence)
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/XsGjlqlL5KM)
 
 ---
 
 ### 📊 InsightX
 **AI-Powered Business Intelligence & Analytics Platform**
 
-> Transform raw datasets into interactive dashboards, AI-powered insights, and predictive analytics.
+> A full-stack AI analytics platform that transforms business datasets into interactive dashboards, predictive forecasts, and AI-generated insights using Machine Learning and Business Intelligence techniques.
 
-🔗 **Repository:** https://github.com/shivampathak91/InsightX  
-🌐 **Live Demo:** https://insightx-ai-retail-intelligence-platform.streamlit.app
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shivampathak91/InsightX)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://insightx-ai-retail-intelligence-platform.streamlit.app)
+
 ---
 
 # 💡 Current Focus

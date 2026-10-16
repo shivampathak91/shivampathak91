@@ -1,150 +1,209 @@
 <div align="center">
 
-# 👋 Hi, I'm Shivam Pathak
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,70:18181b,100:6366f1&height=220&section=header&text=Shivam%20Pathak&fontSize=50&fontAlignY=36&desc=Python%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20API%20Architect&descFontSize=16&descAlignY=62&fontColor=ffffff&descColor=a1a1aa" width="100%" alt="Shivam Pathak - Header Banner"/>
 
-### 🛡️ AI Engineer • 🤖 AI Agent Builder • ⚡ Backend Developer
-
-Building secure AI systems, autonomous AI agents, and scalable backend platforms using Python & FastAPI.
-
-<p>
+<!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://shivampathak.vercel.app">
-<img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=3400&pause=1100&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=45&lines=Building+Type-Safe+REST+APIs+with+FastAPI+%26+Pydantic;Designing+Relational+Schemas+with+SQLAlchemy%2C+SQLModel+%26+PostgreSQL;Deploying+Predictive+ML+Pipelines+behind+Fast+Async+Endpoints;Engineering+Runtime+Security+for+Autonomous+AI+Agents" alt="Typing Animation" />
 </a>
 
-<a href="https://www.linkedin.com/in/shivam-pathak91">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shivampathak91">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://shivampathak.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://github.com/shivampathak91"><img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white&labelColor=09090B" alt="GitHub"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shivam-pathak91"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:pathakshivam9136@gmail.com"><img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6D28D9" alt="Email"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=shivampathak91&style=for-the-badge&color=blueviolet"/>
+```text
+Status         : Open to Software Engineering Internships & Backend Development Roles
+Specialization : High-Performance REST APIs • Relational Modeling • Applied ML Systems
+Education      : B.E. in Computer Engineering (8.12 CGPA)
+```
 
 </div>
 
 ---
 
-# 🚀 Professional Summary
+### 01 // ABOUT THE ENGINEER
 
-Computer Science student and aspiring AI Engineer passionate about building secure, production-ready AI systems, autonomous AI agents, and scalable backend applications. Experienced in Python, FastAPI, and Data Analytics, with a growing focus on AI Security, Agentic AI, and LLM-powered applications. I enjoy solving complex real-world problems by combining intelligent automation, robust backend engineering, and modern AI technologies.
+I design and ship backend systems, typed services, and data-driven applications in Python. My work focuses on explicit API contracts, deterministic data modeling, and connecting analytical machine learning models with responsive user interfaces.
 
----
+I build with an emphasis on **predictable reliability**: strict Pydantic schemas, defensive input validation, structured database queries with SQLAlchemy/SQLModel, and automated migration lifecycles.
 
-# 🚀 Featured Projects
-
-### 🛡️ Kavach AI
-**Zero-Trust Runtime Security Platform for Autonomous AI Agents**
-
-> Built for the **OpenAI Codex Hackathon**, Kavach AI protects AI agents from prompt injection, jailbreaks, malicious tool execution, and unsafe actions through real-time security analysis and policy enforcement.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shivampathak91/Kavach-AI)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://kavachlabs.vercel.app)
-[![Demo Video](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-CQqRKJFpw8)
+- **Core Engineering Domain**: Backend architectures, async REST services, relational schema design, and automated data pipelines.
+- **Development Standard**: Contract-first API specifications, explicit typing, reproducible transformations with Pandas/NumPy, and clean documentation.
+- **Current Technical Exploration**: Runtime interception mechanisms for autonomous AI agents and Model Context Protocol (MCP) tooling.
 
 ---
 
-### 🌍 ARGUS
-**AI-Powered Multi-Agent Early Warning & Risk Intelligence Platform**
+### 02 // TECHNICAL TOOLKIT
 
-> Developed as the **Capstone Project for the Google × Kaggle AI Agentic Intensive (Vibe Coding Track)**, ARGUS leverages autonomous AI agents to monitor risks, analyze incidents, and deliver actionable intelligence for disaster response and critical infrastructure.
+<div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shivampathak91/argus-risk-intelligence)
-[![Demo Video](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/XsGjlqlL5KM)
+#### ⚡ Backend Engineering & Data Persistence
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite&theme=dark" alt="Backend Stack" />
+</p>
 
----
+#### 📊 Data Science, Analytics & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,colab&theme=dark" alt="Data Science Stack" />
+</p>
 
-### 📊 InsightX
-**AI-Powered Business Intelligence & Analytics Platform**
+#### 🛠️ Tooling, DevOps & Operational Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,vercel,netlify,render&theme=dark" alt="Tools Stack" />
+</p>
 
-> A full-stack AI analytics platform that transforms business datasets into interactive dashboards, predictive forecasts, and AI-generated insights using Machine Learning and Business Intelligence techniques.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shivampathak91/InsightX)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://insightx-ai-retail-intelligence-platform.streamlit.app)
-
----
-
-# 💡 Current Focus
-
-- 🛡️ AI Security & AI Safety
-- 🤖 Autonomous AI Agents
-- ⚡ Backend Engineering with FastAPI
-- 🧠 LLM Applications
-- 📊 Machine Learning
-- 🗄️ SQL & Database Design
-- ☁️ Cloud Deployment
-- 🔒 Secure AI Systems
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-
-### AI & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render)
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shivampathak91&theme=tokyonight&hide_border=true"/>
+#### 🌐 Interfaces & Web Essentials
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" alt="Web Stack" />
+</p>
 
 </div>
 
+<br/>
+
+| Layer | Technologies & Libraries | Implementation Depth |
+| :--- | :--- | :--- |
+| **Backend & APIs** | FastAPI, RESTful Design, Pydantic, JSON Validation, CRUD, JWT Auth | **Core Driver** — Primary framework for high-throughput async services, auth, and data validation. |
+| **Databases & ORM** | MySQL, SQLite, SQLModel, SQLAlchemy, Alembic Migrations | **Core Driver** — Schema architecture, foreign keys, query optimization, and versioned migrations. |
+| **Data Analysis & ML** | Pandas, NumPy, Statsmodels, Google Colab | **Core Driver** — Transaction analysis, feature engineering, and experimental ML notebooks. |
+| **Auth & Security** | JWT Authentication, Argon2 (`pwdlib`), MCP Runtime Interception | **Applied in Systems** — Stateless token auth, secure password hashing, and tool-call sandboxing. |
+| **Dashboards & Visuals** | Streamlit, Plotly, HTML5, CSS3, Basic JavaScript | **Applied in Systems** — Interactive analytical workspaces and business intelligence dashboards. |
+| **DevOps & Cloud** | Docker, Vercel, Netlify, Render, Git, GitHub, Postman, Swagger UI | **Active Workflow** — Containerized deployments, cloud hosting, and automated API documentation. |
+
 ---
 
-# 📌 Explore My Work
+### 03 // FEATURED WORK & CASE STUDIES
 
-### 🌐 Portfolio
-**https://shivampathak.vercel.app**
+#### 01. Kavach AI — Zero-Trust Runtime Security Platform for Autonomous Agents
+*Built for the OpenAI Codex Hackathon • Runtime Security & Policy Enforcement*
 
-### 🛡️ Kavach AI
-Repository → https://github.com/shivampathak91/Kavach-AI
+Autonomous AI agents executing tools (filesystem, APIs, database transactions) introduce critical vulnerabilities such as prompt injection, jailbreaking, and unauthorized actions. Kavach AI acts as an inline runtime security proxy between users and agent frameworks, inspecting prompt intent and evaluating risk before actions are executed.
 
-Live Demo → https://kavachlabs.vercel.app
+- **MCP Runtime Interception**: Intercepts Model Context Protocol (MCP) tool calls in real time to prevent unauthorized operations and sensitive data exfiltration.
+- **Intent & Risk Engine**: Evaluates prompts against dynamic multi-factor risk algorithms and strict policy evaluation rules.
+- **Live Auditing & Human-in-the-Loop**: Real-time event streaming via WebSockets with escalation queues for high-risk actions.
 
-### 🌍 ARGUS
-Repository → https://github.com/shivampathak91/argus-risk-intelligence
+```text
+Stack: Python • FastAPI • MySQL • Pydantic • WebSockets • Next.js • TypeScript
+```
 
-### 📊 InsightX
-Repository → https://github.com/shivampathak91/InsightX
+**[Repository](https://github.com/shivampathak91/Kavach-AI)** &nbsp;|&nbsp; **[Live Demo](https://kavachlabs.vercel.app)** &nbsp;|&nbsp; **[Video Walkthrough](https://www.youtube.com/watch?v=-CQqRKJFpw8)**
 
-Live Demo → https://insightx-ai-retail-intelligence-platform.streamlit.app
+---
+
+#### 02. ARGUS — Autonomous Risk Intelligence & Early Warning Platform
+*Capstone Project for Google × Kaggle Agentic AI & Vibe Coding Intensive • Multi-Agent Systems*
+
+Disaster response and infrastructure risk management suffer from slow, fragmented manual inspection of damage imagery and disparate reports. ARGUS automates disaster risk evaluation through an orchestrated 8-agent pipeline that ingests multimodal inputs and yields evidence-backed risk scores.
+
+- **Multi-Agent Orchestration**: Deploys 8 specialized agents (Vision, OCR, Knowledge, Risk, Simulation, Debate, Commander, Report) for comprehensive evidence synthesis.
+- **AI Debate Protocol**: Resolves conflicting assessments between individual agents through an automated debate protocol that establishes evidentiary consensus.
+- **Asynchronous Telemetry**: Built on FastAPI and SQLite/SQLAlchemy with WebSocket feeds for live agent execution tracking.
+
+```text
+Stack: Python • FastAPI • SQLAlchemy • SQLite • Pydantic • WebSockets • Google Gemini API
+```
+
+**[Repository](https://github.com/shivampathak91/argus-risk-intelligence)** &nbsp;|&nbsp; **[Video Walkthrough](https://youtu.be/XsGjlqlL5KM)**
+
+---
+
+#### 03. InsightX — AI Retail Intelligence & Predictive Analytics Platform
+*Production Analytical Workspace • Anomaly Detection & Time-Series Forecasting*
+
+Retail operations collect high-volume transaction records across regions and categories, making manual variance detection and margin-leak tracking difficult. InsightX unifies retail datasets into an automated intelligence engine featuring machine learning anomaly detection and executive reporting.
+
+- **Unsupervised Anomaly Detection**: Implements Scikit-Learn’s `IsolationForest` to surface pricing outliers, anomalous refunds, and margin irregularities.
+- **Predictive Sales Forecasting**: Generates multi-horizon sales projections (7-day, 30-day, and 1-year windows) for inventory and revenue planning.
+- **Automated PDF Reporting**: Generates downloadable multi-page executive summaries combining KPI metrics, charts, and Llama 3-powered business insights via ReportLab.
+
+```text
+Stack: Python • Streamlit • Pandas • NumPy • Statsmodels • Groq API • Supabase
+```
+
+**[Repository](https://github.com/shivampathak91/InsightX)** &nbsp;|&nbsp; **[Live Demo](https://insightx-ai-retail-intelligence-platform.streamlit.app)**
+
+---
+
+#### 04. Task Management API — Authenticated Multi-User Service & Schema Migrations
+*Production-Ready Backend Service • Relational Architecture & Alembic Migrations*
+
+A secure REST API backend engineered for team task management, user role isolation, and database schema tracking.
+
+- **Authentication & Security**: Features registration and login with Argon2 password hashing (`pwdlib`) and stateless JWT session tokens.
+- **Relational Data Modeling**: Structured entity relationships using **SQLAlchemy** with foreign keys, user-task associations, and lifecycle statuses.
+- **Alembic Schema Evolution**: Programmatic database version control and migration tracking, with configuration managed through `pydantic-settings`.
+- **Event Notifications**: Configured for automated background email alerts using `fastapi-mail`.
+
+```text
+Stack: Python • FastAPI • SQLAlchemy • Alembic • MySQL / SQLite • Pydantic • JWT Auth • Argon2
+```
+
+**[Repository](https://github.com/shivampathak91/Task_Management_App)**
+
+---
+
+#### 05. Dabbewala Delivery API — Logistics State Machine & Real-Time Tracking
+*FastAPI & SQLModel Logistics Microservice • Order Lifecycle Management*
+
+Modeled after Mumbai’s world-renowned Dabbawala logistics network, this delivery management system tracks package movements and aggregates daily operational statistics.
+
+- **Deterministic Order Lifecycle**: State-machine architecture managing status transitions across stages (`preparing` → `picked_up` → `in_transit` → `delivered`).
+- **Unified SQLModel ORM**: Combines Pydantic data validation with SQLAlchemy ORM over **SQLite** for clean, type-safe database queries.
+- **Operational Metrics**: Aggregation endpoints providing real-time daily metrics, volume counts by status, and date-range filtering.
+
+```text
+Stack: Python • FastAPI • SQLModel • SQLite • Pydantic • Uvicorn
+```
+
+**[Repository](https://github.com/shivampathak91/dabbewala_api)**
+
+---
+
+#### 06. Insurance Premium Category Predictor — ML Microservice & Client
+*Machine Learning Microservice • Dynamic Validation & Interactive Frontend*
+
+An end-to-end predictive healthcare microservice that automates customer risk evaluation and insurance premium category classification.
+
+- **Inference Microservice**: Serves a trained ML model (`model.pkl`) behind a low-latency FastAPI prediction endpoint.
+- **Dynamic Field Computation**: Leverages Pydantic’s `@computed_field` to compute BMI metrics on the fly from height and weight parameters, with validation for demographic city tiers.
+- **Interactive Client**: Companion **Streamlit** dashboard enabling real-time risk simulation and premium tier lookups.
+
+```text
+Stack: Python • FastAPI • Streamlit • Pandas • NumPy • Pydantic
+```
+
+**[Repository](https://github.com/shivampathak91/insurancepredictionfastapistreamlit)**
+
+---
+
+### 04 // ENGINEERING PRACTICES & ARCHITECTURAL PRINCIPLES
+
+- **Contract-First API Design**: Every route is bounded by explicit Pydantic request and response schemas, ensuring self-documenting OpenAPI / Swagger specifications.
+- **Deterministic Data Handling**: Prioritizing vectorized array and DataFrame operations in NumPy/Pandas over manual loops; validating raw inputs before pipeline execution.
+- **Relational Integrity**: Designing strict foreign key constraints, indexes, and normalized database models before writing application logic.
+- **Observable Services**: Implementing structured JSON logging, explicit HTTP status codes, and WebSocket streams for real-time background workflows.
+
+---
+
+### 05 // CONNECT & COLLABORATE
+
+I am open to software engineering internships, backend development roles, and collaborative projects.
+
+- **Portfolio**: [shivampathak.vercel.app](https://shivampathak.vercel.app)
+- **GitHub**: [github.com/shivampathak91](https://github.com/shivampathak91)
+- **LinkedIn**: [linkedin.com/in/shivam-pathak91](https://www.linkedin.com/in/shivam-pathak91)
+- **Email**: [pathakshivam9136@gmail.com](mailto:pathakshivam9136@gmail.com)
 
 ---
 
 <div align="center">
-
-### 💡 Building secure AI systems that people can trust.
-
-⭐ If you like my work, consider starring my repositories!
-
+<sub>Designed with intention • Built for readability and technical accuracy • © Shivam Pathak</sub>
 </div>

@@ -5,7 +5,7 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://shivampathak.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=3400&pause=1100&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=45&lines=Building+Type-Safe+REST+APIs+with+FastAPI+%26+Pydantic;Designing+Relational+Schemas+with+SQLAlchemy%2C+SQLModel+%26+PostgreSQL;Deploying+Predictive+ML+Pipelines+behind+Fast+Async+Endpoints;Engineering+Runtime+Security+for+Autonomous+AI+Agents" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=19&duration=3400&pause=1100&color=A78BFA&background=00000000&center=true&vCenter=true&width=700&height=45&lines=Building+Type-Safe+REST+APIs+with+FastAPI+%26+Pydantic;Designing+Relational+Schemas+with+SQLAlchemy%2C+SQLModel+%26+PostgreSQL alt="Typing Animation" />
 </a>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ```text
 Status         : Open to Software Engineering Internships & Backend Development Roles
-Specialization : High-Performance REST APIs • Relational Modeling • Applied ML Systems
+Specialization : High-Performance REST APIs • Relational Modeling • Fastapi Developer
 Education      : B.E. in Computer Engineering (8.12 CGPA)
 ```
 
@@ -47,11 +47,6 @@ I build with an emphasis on **predictable reliability**: strict Pydantic schemas
 #### ⚡ Backend Engineering & Data Persistence
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite&theme=dark" alt="Backend Stack" />
-</p>
-
-#### 📊 Data Science, Analytics & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,colab&theme=dark" alt="Data Science Stack" />
 </p>
 
 #### 🛠️ Tooling, DevOps & Operational Workflow
@@ -187,7 +182,6 @@ Stack: Python • FastAPI • Streamlit • Pandas • NumPy • Pydantic
 ### 04 // ENGINEERING PRACTICES & ARCHITECTURAL PRINCIPLES
 
 - **Contract-First API Design**: Every route is bounded by explicit Pydantic request and response schemas, ensuring self-documenting OpenAPI / Swagger specifications.
-- **Deterministic Data Handling**: Prioritizing vectorized array and DataFrame operations in NumPy/Pandas over manual loops; validating raw inputs before pipeline execution.
 - **Relational Integrity**: Designing strict foreign key constraints, indexes, and normalized database models before writing application logic.
 - **Observable Services**: Implementing structured JSON logging, explicit HTTP status codes, and WebSocket streams for real-time background workflows.
 

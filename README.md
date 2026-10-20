@@ -70,8 +70,8 @@ I build with an emphasis on **predictable reliability**: strict Pydantic schemas
 | **Backend & APIs** | FastAPI, RESTful Design, Pydantic, JSON Validation, CRUD, JWT Auth | **Core Driver** — Primary framework for high-throughput async services, auth, and data validation. |
 | **Databases & ORM** | MySQL, SQLite, SQLModel, SQLAlchemy, Alembic Migrations | **Core Driver** — Schema architecture, foreign keys, query optimization, and versioned migrations. |
 | **Data Analysis & ML** | Pandas, NumPy, Statsmodels, Google Colab | **Core Driver** — Transaction analysis, feature engineering, and experimental ML notebooks. |
-| **Auth & Security** | JWT Authentication, Argon2 (`pwdlib`), MCP Runtime Interception | **Applied in Systems** — Stateless token auth, secure password hashing, and tool-call sandboxing. |
-| **Dashboards & Visuals** | Streamlit, Plotly, HTML5, CSS3, Basic JavaScript | **Applied in Systems** — Interactive analytical workspaces and business intelligence dashboards. |
+| **Auth & Security** | JWT Authentication, Argon2 (`pwdlib`) | **Applied in Systems** — Stateless token auth, secure password hashing, and tool-call sandboxing. |
+| **Dashboards & Visuals** | Streamlit, HTML5, CSS3, Basic JavaScript | **Applied in Systems** — Interactive analytical workspaces and business intelligence dashboards. |
 | **DevOps & Cloud** | Docker, Vercel, Netlify, Render, Git, GitHub, Postman, Swagger UI | **Active Workflow** — Containerized deployments, cloud hosting, and automated API documentation. |
 
 ---
